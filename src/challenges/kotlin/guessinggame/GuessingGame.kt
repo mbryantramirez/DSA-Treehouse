@@ -29,9 +29,8 @@ class GuessingGame {
     private fun printResults() {
         println("Number of guesses: $numGuesses")
         println("Last 5 guesses")
-        while (!guessQueue.isEmpty()) {
-            print(guessQueue.poll())
-            print(" ")
+        while (guessQueue.isNotEmpty()) {
+            print("${guessQueue.poll()} ")
         }
     }
 

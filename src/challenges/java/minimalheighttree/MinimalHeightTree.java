@@ -17,7 +17,7 @@ public class MinimalHeightTree {
         if (start > end) {
             return null;
         }
-        int mid = end - start / 2;
+        int mid = end + start / 2;
         TreeNode middle = new TreeNode(arr[mid]);
         middle.left = addToTree(arr, start, mid - 1);
         middle.right = addToTree(arr, mid + 1, end);

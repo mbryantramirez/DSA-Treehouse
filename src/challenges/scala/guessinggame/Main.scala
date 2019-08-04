@@ -1,9 +1,8 @@
 package challenges.scala.guessinggame
 
-class Main {
-
+object Main {
   def main(args: Array[String]): Unit = {
     val guessingGame = new GuessingGame()
-//    guessingGame.run()
+    guessingGame.run()
   }
 }
