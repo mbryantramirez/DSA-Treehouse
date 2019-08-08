@@ -1,4 +1,4 @@
-package challenges.java;
+package trees.java;
 
 public class TreeNode {
     public int data;

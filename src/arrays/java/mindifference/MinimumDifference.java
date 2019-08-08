@@ -1,4 +1,4 @@
-package challenges.java.mindifference;
+package arrays.java.mindifference;
 
 import java.util.Arrays;
 

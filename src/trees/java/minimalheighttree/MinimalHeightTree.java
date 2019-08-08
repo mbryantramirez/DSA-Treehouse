@@ -1,7 +1,7 @@
-package challenges.java.minimalheighttree;
+package trees.java.minimalheighttree;
 
 
-import challenges.java.TreeNode;
+import trees.java.TreeNode;
 
 public class MinimalHeightTree {
     public static void main(String[] args) {
