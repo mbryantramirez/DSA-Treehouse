@@ -1,4 +1,4 @@
-package challenges.java.guessinggame;
+package challenges.java.jsonparser;
 
 import com.squareup.moshi.Json;
 

@@ -1,5 +1,6 @@
-package challenges.java.guessinggame;
+package challenges.java.jsonparser;
 
+import challenges.java.jsonparser.QuizWrapper;
 import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
 import com.squareup.moshi.Types;
@@ -9,7 +10,6 @@ import okio.Okio;
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.ParameterizedType;
-import java.util.Arrays;
 import java.util.List;
 
 public class JSONParser {

@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d20585-0911-4819-a0c8-dd2268d80b5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_moshi_moshi_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/java/guessinggame/JSONParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/kotlin/jsonparser/QuizWrapper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/kotlin/TreeNode.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Treehouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Treehouse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/META-INF/Treehouse.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Treehouse/META-INF/Treehouse.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/challenges/java/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/challenges/java/guessinggame/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Treehouse/challenges/java/guessinggame/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/challenges/java/mindifference/MinimumDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/challenges/java/minimalheighttree/MinimalHeightTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Treehouse/challenges/scala/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/java/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/java/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/java/guessinggame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/java/guessinggame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/java/mindifference/MinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/java/mindifference/MinimumDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/java/minimalheighttree/MinimalHeightTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/java/minimalheighttree/MinimalHeightTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/scala/Main.scala" beforeDir="false" />
-    </list>
+    <list default="true" id="99d20585-0911-4819-a0c8-dd2268d80b5a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +75,11 @@
   </component>
   <component name="RunManager" selected="Application.JSONParser">
     <configuration name="JSONParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.java.guessinggame.JSONParser" />
+      <option name="MAIN_CLASS_NAME" value="challenges.java.jsonparser.JSONParser" />
       <module name="Treehouse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.java.guessinggame.*" />
+          <option name="PATTERN" value="challenges.java.jsonparser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,7 +176,7 @@
       <updated>1564852592683</updated>
       <workItem from="1564852594092" duration="25632000" />
       <workItem from="1564970323517" duration="580000" />
-      <workItem from="1565226561423" duration="7045000" />
+      <workItem from="1565226561423" duration="7205000" />
     </task>
     <servers />
   </component>
